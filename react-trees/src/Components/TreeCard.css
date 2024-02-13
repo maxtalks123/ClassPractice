@@ -1,0 +1,22 @@
+#tree-card {
+  width: 800px;
+  height: 400px;
+  background-color: chocolate;
+  padding: 8px;
+  border: 5px solid black;
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+img {
+  width: 400px;
+  margin-top: 10px;
+  position: relative;
+  justify-content: center;
+}
+#treecard.h1 {
+  text-align: center;
+  display: flex;
+}
